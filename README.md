@@ -1,1 +1,5 @@
-# Ot-harjoitustyo
+# Ot-harjoitustyö
+
+## Projekti:
+
+Työn harjoituksena on luoda treenikalenteri, jossa pystyy pitämään kirjaa harjoituksista ja niiden sisällöstä.
