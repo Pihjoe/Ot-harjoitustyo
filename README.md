@@ -6,4 +6,4 @@ Työn harjoituksena on luoda treenikalenteri, jossa pystyy pitämään kirjaa ha
 
 ## Dokumentaatio:
 
-[Dokumentaatio (https://github.com/Pihjoe/Ot-harjoitustyo/tree/main/Dokumentation)][Dokumentaatio]
+[Dokumentaatio](https://github.com/Pihjoe/Ot-harjoitustyo/tree/main/Dokumentation)
