@@ -1,6 +1,7 @@
 ```mermaid
 
 sequenceDiagram
+    participant Main
     participant laitehallinto
     participant rautatientori
     participant ratikka6
