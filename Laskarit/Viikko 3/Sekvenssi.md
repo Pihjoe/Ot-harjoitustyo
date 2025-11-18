@@ -1,12 +1,12 @@
 ```mermaid
 
 sequenceDiagram
-    create participant laitehallinto
-    create participant rautatientori
-    create participant ratikka6
-    create participant bussi224
-    create participant lippu_luukku
-    create participant kallen_kortti
+    participant laitehallinto
+    participant rautatientori
+    participant ratikka6
+    participant bussi224
+    participant lippu_luukku
+    participant kallen_kortti
 
     Main ->> laitehallinto: HKKLaitehallinto()    
     Main ->> rautatientori: Lukijalaite()
