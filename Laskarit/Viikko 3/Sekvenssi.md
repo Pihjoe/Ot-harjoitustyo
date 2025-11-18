@@ -20,13 +20,13 @@ sequenceDiagram
 
     ratikka6 ->> kallen_kortti: osta_lippu(kallen_kortti, 0)
     activate kallen_kortti
-    kallen_kortti -->> "3"
+    kallen_kortti -->> ratikka6: "3"
     deactivate kallen_kortti
     ratikka6 ->> Main: True
 
     bussi224 ->> kallen_kortti: osta_lippu(kallen_kortti, 2)
     activate kallen_kortti
-    kallen_kortti -->> "1.5"
+    kallen_kortti -->> bussi224: "1.5"
     deactivate kallen_kortti
     bussi224 ->> Main: False
 
